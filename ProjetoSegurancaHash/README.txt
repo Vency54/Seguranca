@@ -38,3 +38,7 @@ HASH:
 
 NOTA:
 Os painéis simétrico, assimétrico e assinatura são esqueletos com instruções; ainda precisam ser implementados.
+
+
+CMD corrigido:
+"C:\Program Files\Java\jdk1.8.0_331\bin\keytool.exe" -genkeypair -alias assinatura -keyalg RSA -keysize 2048 -validity 365 -storetype PKCS12 -keystore assinatura.p12 -storepass senha123 -keypass senha123 -dname "CN=Seu Nome, O=ADS"
