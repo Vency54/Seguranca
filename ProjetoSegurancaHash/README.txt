@@ -6,13 +6,13 @@ src/
 └── seguranca/
     ├── Seguranca.java
     ├── hash/
-    │   └── HashPanel.java                 (módulo implementado por você)
+    │   └── HashPanel.java                 
     ├── simetrica/
-    │   └── SimetricaPanel.java            (reservado para amigo)
+    │   └── SimetricaPanel.java            
     ├── assimetrica/
-    │   └── AssimetricaPanel.java          (reservado para amigo)
+    │   └── AssimetricaPanel.java          
     └── assinatura/
-        └── AssinaturaPanel.java            (reservado para amigo)
+        └── AssinaturaPanel.java            
 
 ABRIR:
 1. Extraia o ZIP.
